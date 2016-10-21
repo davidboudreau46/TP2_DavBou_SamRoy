@@ -1,0 +1,6 @@
+Wireshark SSL debug log 
+
+Wireshark version: 2.2.1 (v2.2.1-0-ga6fbd27 from master-2.2)
+GnuTLS version:    3.2.15
+Libgcrypt version: 1.6.2
+
